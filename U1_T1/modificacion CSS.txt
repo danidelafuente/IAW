@@ -1,0 +1,10 @@
+en el archivo common.css que esta en la carpeta C:/xampp/phpMyAdmin/themes/pmahomme/css/ modificamos las siguintes lineas:
+
+En ".group" borramos la linea background.
+En ".group h2" modificamos la linea background-color por "green".
+En "#serverinfo" modificamos la linea background por "green".
+En ".menucontainer" borramos la linea con codigo php.
+
+en el archivo navigation.css que esta en la carpeta C:/xampp/phpMyAdmin/themes/pmahomme/css/ modificamos las siguintes lineas:
+
+En "#pma_navigation" borramos la linea background.
